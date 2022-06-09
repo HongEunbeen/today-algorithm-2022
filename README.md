@@ -13,9 +13,8 @@
 | hackerrank | [바로가기](https://www.hackerrank.com/) |
 | 프로그래머스 | [바로가기](https://www.hackerrank.com/) |
 
-### 🚩4월
+### 🚩6월
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
-| 06/09 | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/06/09/Main.java)  |
-
+| 06/09 | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/09/Main.java)  |
