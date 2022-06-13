@@ -27,3 +27,5 @@
 | 06/10 | [상근이의 여행](https://www.acmicpc.net/problem/9372)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/상근이의_여행/Main.java)|
 |  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/최소_스패닝_트리/Main.java)|
 |  | [별자리 만들기](https://www.acmicpc.net/problem/4386)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/별자리_만들기/Main.java)|
+| 06/13 | [탑](https://www.acmicpc.net/problem/2493)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/13/탑/Main.java)|
+|| [괄호의 값](https://www.acmicpc.net/problem/2504)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/13/괄호의_값/Main.java)|
