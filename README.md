@@ -38,4 +38,4 @@
 | 06/16 | [최대 힙](https://www.acmicpc.net/problem/11279)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/최대_힙/Main.java)|
 || [최소 힙](https://www.acmicpc.net/problem/1927)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/최소_힙/Main.java)|
 || [절댓값 힙](https://www.acmicpc.net/problem/11286)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/절댓값_힙/Main.java)|
-
+| 06/17 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/17/Main.java)|
