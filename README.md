@@ -41,4 +41,5 @@
 | 06/17 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/17/Main.java)|
 | 06/20 | [암호](https://www.acmicpc.net/problem/1394)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/20/Main.java)|
 | 06/21 | [K번째 수](https://www.acmicpc.net/problem/1300)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/21/Main.java)|
-| 06/21 | [개똥벌레](https://www.acmicpc.net/problem/3020)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/22/Main.java)|
+| 06/22 | [개똥벌레](https://www.acmicpc.net/problem/3020)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/22/Main.java)|
+| 06/23 | [연산자 끼어넣기](https://www.acmicpc.net/problem/14888)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/23/Main.java)|
