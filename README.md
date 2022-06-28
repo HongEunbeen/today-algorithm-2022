@@ -43,5 +43,5 @@
 | 06/21 | [K번째 수](https://www.acmicpc.net/problem/1300)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/21/Main.java)|
 | 06/22 | [개똥벌레](https://www.acmicpc.net/problem/3020)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/22/Main.java)|
 | 06/23 | [연산자 끼어넣기](https://www.acmicpc.net/problem/14888)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/23/Main.java)|
-| 06/25 | [비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/25/Main.java)|
+| 06/25 | [비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/25)|
 | 06/27 | [달려달려](https://www.acmicpc.net/problem/1757)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/27/Main.java)|
