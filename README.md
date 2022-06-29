@@ -44,3 +44,4 @@
 | 06/23 | [연산자 끼어넣기](https://www.acmicpc.net/problem/14888)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/23/Main.java)|
 | 06/25 | [비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/25)|
 | 06/27 | [달려달려](https://www.acmicpc.net/problem/1757)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/27/Main.java)|
+| 06/29 | [피자 오븐](https://www.acmicpc.net/problem/19940)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/29/Main.java)|
