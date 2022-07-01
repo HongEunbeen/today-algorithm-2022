@@ -24,7 +24,14 @@
 | 우선순위 | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_heap/README.md) |
 | | 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_queue/README.md) |
 
-### 🚩6월
+
+### 🚩7월
+
+| 날짜 | 문제 이름 | 풀이 링크 |
+| :--- |   :---:   |  --------:|
+| 07/01 | [개근상](https://www.acmicpc.net/problem/1563)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/01)|
+
+### 💙6월
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
@@ -47,4 +54,3 @@
 | 06/27 | [달려달려](https://www.acmicpc.net/problem/1757)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/27)|
 | 06/29 | [피자 오븐](https://www.acmicpc.net/problem/19940)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/29)|
 | 06/30 | [궁금한 민호](https://www.acmicpc.net/problem/1507)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/30)|
-| 06/30 | [개근상](https://www.acmicpc.net/problem/1563)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/01)|
