@@ -31,6 +31,8 @@
 | :--- |   :---:   |  --------:|
 | 07/01 | [개근상](https://www.acmicpc.net/problem/1563)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/01)|
 | 07/04 | [알파벳](https://www.acmicpc.net/problem/1987)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/04)|
+| 07/05 | [회사 문화 1](https://www.acmicpc.net/problem/14267)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/05/회사_문화)|
+|| [리모컨](https://www.acmicpc.net/problem/1107)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/04/리모컨)|
 
 ### 💙6월
 
