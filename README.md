@@ -30,6 +30,7 @@
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
 | 07/01 | [개근상](https://www.acmicpc.net/problem/1563)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/01)|
+| 07/04 | [알파벳](https://www.acmicpc.net/problem/1987)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/04)|
 
 ### 💙6월
 
