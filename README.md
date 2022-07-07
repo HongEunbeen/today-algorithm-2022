@@ -33,6 +33,8 @@
 | 07/04 | [알파벳](https://www.acmicpc.net/problem/1987)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/04)|
 | 07/05 | [회사 문화 1](https://www.acmicpc.net/problem/14267)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/05/회사_문화)|
 | 07/06 | [나무 자르기](https://www.acmicpc.net/problem/2805)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/06)|
+| 07/07 | [마인크래프트](https://www.acmicpc.net/problem/18111)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/07)|
+
 
 ### 💙6월
 
