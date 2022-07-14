@@ -38,6 +38,8 @@
 | 07/11 | [토마토](https://www.acmicpc.net/problem/7569)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/11)|
 | 07/12 | [숨박꼭질](https://www.acmicpc.net/problem/1697)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/12)|
 | 07/13 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/13)|
+| 07/14 | [적록색약](https://www.acmicpc.net/problem/10026)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/14)|
+
 
 
 ### 💙6월
