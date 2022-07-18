@@ -41,6 +41,8 @@
 | 07/14 | [적록색약](https://www.acmicpc.net/problem/10026)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/14)|
 | 07/15 | [조각 움직이기](https://www.acmicpc.net/problem/1035)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/15)|
 | 07/17 | [교환](https://www.acmicpc.net/problem/1039)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/17)|
+| 07/18 | [치즈](https://www.acmicpc.net/problem/2638)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/18)|
+
 
 ### 💙6월
 
