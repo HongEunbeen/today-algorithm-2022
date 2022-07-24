@@ -43,6 +43,7 @@
 | 07/17 | [교환](https://www.acmicpc.net/problem/1039)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/17)|
 | 07/18 | [치즈](https://www.acmicpc.net/problem/2638)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/18)|
 | 07/19 | [연구소](https://www.acmicpc.net/problem/14502)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/19)|
+| 07/24 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/07/24)|
 
 ### 💙6월
 
