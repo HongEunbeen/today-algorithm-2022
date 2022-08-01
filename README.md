@@ -24,8 +24,13 @@
 | 우선순위 | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_heap/README.md) |
 | | 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_queue/README.md) |
 
-
 ### 🚩7월
+
+| 날짜 | 문제 이름 | 풀이 링크 |
+| :--- |   :---:   |  --------:|
+| 08/01 | [뉴스 전하기](https://www.acmicpc.net/problem/1135)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/01)|
+
+### 💙7월
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
@@ -50,21 +55,21 @@
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
-| 06/09 | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/09/Main.java)  |
-| 06/10 | [상근이의 여행](https://www.acmicpc.net/problem/9372)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/상근이의_여행/Main.java)|
-|  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/최소_스패닝_트리/Main.java)|
-| 06/13 | [탑](https://www.acmicpc.net/problem/2493)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/13/탑/Main.java)|
-|| [괄호의 값](https://www.acmicpc.net/problem/2504)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/13/괄호의_값/Main.java)|
-| 06/14 | [운동](https://www.acmicpc.net/problem/1956)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/14/운동/Main.java)|
-| 06/15 | [상금 헌터](https://www.acmicpc.net/problem/15953)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/15/Main.java)|
-| 06/16 | [최대 힙](https://www.acmicpc.net/problem/11279)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/최대_힙/Main.java)|
-|| [최소 힙](https://www.acmicpc.net/problem/1927)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/최소_힙/Main.java)|
-|| [절댓값 힙](https://www.acmicpc.net/problem/11286)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/절댓값_힙/Main.java)|
-| 06/17 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/17/Main.java)|
-| 06/20 | [암호](https://www.acmicpc.net/problem/1394)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/20/Main.java)|
-| 06/21 | [K번째 수](https://www.acmicpc.net/problem/1300)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/21/Main.java)|
-| 06/22 | [개똥벌레](https://www.acmicpc.net/problem/3020)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/22/Main.java)|
-| 06/23 | [연산자 끼어넣기](https://www.acmicpc.net/problem/14888)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/23/Main.java)|
+| 06/09 | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/09)  |
+| 06/10 | [상근이의 여행](https://www.acmicpc.net/problem/9372)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/상근이의_여행)|
+|  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/10/최소_스패닝_트리)|
+| 06/13 | [탑](https://www.acmicpc.net/problem/2493)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/13/탑)|
+|| [괄호의 값](https://www.acmicpc.net/problem/2504)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/13/괄호의_값)|
+| 06/14 | [운동](https://www.acmicpc.net/problem/1956)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/14/운동)|
+| 06/15 | [상금 헌터](https://www.acmicpc.net/problem/15953)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/15)|
+| 06/16 | [최대 힙](https://www.acmicpc.net/problem/11279)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/최대_힙)|
+|| [최소 힙](https://www.acmicpc.net/problem/1927)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/최소_힙)|
+|| [절댓값 힙](https://www.acmicpc.net/problem/11286)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/16/절댓값_힙)|
+| 06/17 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/17)|
+| 06/20 | [암호](https://www.acmicpc.net/problem/1394)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/20)|
+| 06/21 | [K번째 수](https://www.acmicpc.net/problem/1300)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/21)|
+| 06/22 | [개똥벌레](https://www.acmicpc.net/problem/3020)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/22)|
+| 06/23 | [연산자 끼어넣기](https://www.acmicpc.net/problem/14888)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/23)|
 | 06/25 | [비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/25)|
 | 06/27 | [달려달려](https://www.acmicpc.net/problem/1757)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/27)|
 | 06/29 | [피자 오븐](https://www.acmicpc.net/problem/19940)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/06/29)|
