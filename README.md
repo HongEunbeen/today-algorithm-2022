@@ -24,11 +24,12 @@
 | 우선순위 | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_heap/README.md) |
 | | 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_queue/README.md) |
 
-### 🚩7월
+### 🚩8월
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
 | 08/01 | [뉴스 전하기](https://www.acmicpc.net/problem/1135)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/01)|
+| 08/04 | [파티](https://www.acmicpc.net/problem/1238)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/04)|
 
 ### 💙7월
 
