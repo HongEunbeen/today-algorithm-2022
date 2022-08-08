@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Edge{
+class Edge implements Comparable<Edge> {
     int index;
     int time;
 
@@ -9,12 +9,16 @@ class Edge{
         this.index = index;
         this.time = time;
     }
+
+    @Override
+    public int compareTo(Edge e) {
+        return time - e.time;
+    }
 }
 
 public class Main {
     static int N, M, X;
-    static List<Edge>[] list;
-    static int[] dp;
+    static List<Edge>[] list, rlist;
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -24,11 +28,11 @@ public class Main {
         X = Integer.parseInt(st.nextToken()); // 목적지
 
         list = new ArrayList[N+1];
-        dp = new int[N+1];
+        rlist = new ArrayList[N+1];
 
         for(int i=1; i<=N; i++){
             list[i] = new ArrayList<>();
-            dp[i] = 9999;
+            rlist[i] = new ArrayList<>();
         }
 
         for(int i=0; i<M; i++){
@@ -39,37 +43,41 @@ public class Main {
             int time = Integer.parseInt(st.nextToken());
             
             list[start].add(new Edge(end, time));
+            rlist[end].add(new Edge(start, time));
         }
 
-        Dijkstra(X);
+        int dist1[] = Dijkstra(X, list);
+        int dist2[] = Dijkstra(X, rlist);
 
+        int cnt = 0;
         for(int i=1; i<=N; i++){
-            dp[i] += DijkstraTo(i);
+            cnt = Math.max(cnt, dist1[i] + dist2[i]);
         }
-
-        Arrays.sort(dp);
-        System.out.println(dp[N]);
+        System.out.println(cnt);
 
     }
-    static void Dijkstra(int index){
-        Queue<Edge> queue = new LinkedList<>();
-        dp[index] = 0; // 최소 비용
+    static int[] Dijkstra(int index, List<Edge>[] list){
+        PriorityQueue<Edge> queue = new PriorityQueue<>();
+        int[] dp = new int[N+1];
+        
+        Arrays.fill(dp, Integer.MAX_VALUE);
 
+        dp[index] = 0;
         queue.add(new Edge(index, 0));
 
         while(!queue.isEmpty()){
             Edge edge = queue.poll();
             int current = edge.index;
-            int distance = edge.time;
+            int time = edge.time;
 
-            if(dp[current] < distance) continue;
-            
+            if(dp[current] < time) continue;
+
             Iterator iter = list[current].iterator();
             while(iter.hasNext()){
                 Edge next = (Edge) iter.next();
 
                 int nextI = next.index; 
-                int nextD = distance + next.time;
+                int nextD = time + next.time;
 
                 if(nextD < dp[nextI]) {
                     dp[nextI] = nextD;
@@ -77,41 +85,6 @@ public class Main {
                 }
             }
         }
-    }
-
-    static int DijkstraTo(int index){
-        Queue<Edge> queue = new LinkedList<>();
-        int dpTo[] = new int[N+1];
-
-        for(int i=1; i<=N; i++){
-            dpTo[i] = 9999;
-        }
-
-        dpTo[index] = 0;
-        queue.add(new Edge(index, 0));
-
-        while(!queue.isEmpty()){
-            Edge edge = queue.poll();
-            int currentI = edge.index;
-            int currentD = edge.time;
-
-            if(dpTo[currentI] < currentD) continue;
-            
-            Iterator iter = list[currentI].iterator();
-            while(iter.hasNext()){
-                Edge next = (Edge) iter.next();
-
-                int nextI = next.index; 
-                int nextD = currentD + next.time;
-
-                if(nextD < dpTo[nextI]) {
-                    dpTo[nextI] = nextD;
-                    if(nextI == X) return dpTo[nextI];
-                    queue.add(new Edge(nextI, nextD));
-                }
-            }
-        }
-        return 0;
+        return dp;
     }
 }
-
