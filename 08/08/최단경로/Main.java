@@ -1,13 +1,18 @@
 import java.io.*;
 import java.util.*;
 
-class Edge{
+class Edge implements Comparable<Edge> {
     int index;
     int weight;
 
     Edge(int index, int weight){
         this.index = index;
         this.weight = weight;
+    }
+
+    @Override
+    public int compareTo(Edge e) {
+        return weight - e.weight;
     }
 }
 
@@ -43,7 +48,6 @@ public class Main {
         }
 
         Dijkstra(K);
-        Arrays.sort(dp);
 
         for(int i=1; i<=V; i++){
             if(dp[i] == Integer.MAX_VALUE) System.out.println("INF");
@@ -52,7 +56,7 @@ public class Main {
 
     }
     static void Dijkstra(int index){
-        Queue<Edge> queue = new LinkedList<>();
+        PriorityQueue<Edge> queue = new PriorityQueue<>();
         dp[index] = 0; // 최소 비용
 
         queue.add(new Edge(index, 0));
