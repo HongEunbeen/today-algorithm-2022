@@ -30,7 +30,8 @@
 | :--- |   :---:   |  --------:|
 | 08/01 | [뉴스 전하기](https://www.acmicpc.net/problem/1135)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/01)|
 | 08/04 | [파티](https://www.acmicpc.net/problem/1238)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/04)|
-| 08/08 | [최단경로](https://www.acmicpc.net/problem/1753)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/08)|
+| 08/08 | [최단경로](https://www.acmicpc.net/problem/1753)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/08/최단경로)|
+| | [특정한 최단경로](https://www.acmicpc.net/problem/1504)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/08/특정한_최단경로)|
 
 ### 💙7월
 
