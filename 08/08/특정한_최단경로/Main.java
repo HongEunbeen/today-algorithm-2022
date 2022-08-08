@@ -20,6 +20,7 @@ class Edge implements Comparable<Edge> {
 public class Main {
     static int N, E, SUM;
     static List<Edge>[] list;
+    static final int INF = 200000000;
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -60,14 +61,15 @@ public class Main {
         int start3[] = Dijkstra(v2);
         sum1 += start3[N];// v2 -> N
         sum2 += start3[v1];// v2 -> v1
-
-        System.out.println(Math.min(sum1, sum2) == Integer.MAX_VALUE ? -1 : Math.min(sum1, sum2));
+        
+        int cnt = (sum1 >= INF && sum2 >= INF) ? -1 : Math.min(sum1, sum2);
+        System.out.println(cnt);
     }
 
     static int[] Dijkstra(int index){
         PriorityQueue<Edge> queue = new PriorityQueue<>();
         int[] dp = new int[N+1];
-        Arrays.fill(dp, Integer.MAX_VALUE);
+        Arrays.fill(dp, INF);
 
         dp[index] = 0;
         queue.add(new Edge(index, 0));
