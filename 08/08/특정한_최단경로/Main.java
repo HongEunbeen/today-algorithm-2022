@@ -52,18 +52,16 @@ public class Main {
 
         Dijkstra(1);
 
-        int sum1 = dp[v1];
-        int sum2 = dp[v2];
-
-        Dijkstra(N);
-
-        sum1 += dp[v2];
-        sum2 += dp[v1];
+        int sum1 = dp[v1]; // 1-> v1
+        int sum2 = dp[v2]; // 1-> v2
 
         Dijkstra(v1);
+        sum1 += dp[v2]; // v1 -> v2
+        sum2 += dp[N]; // v1 -> N
 
-        sum1 += dp[v2];
-        sum2 += dp[v1];
+        Dijkstra(v2);
+        sum2 += dp[v1];// v2 -> v1
+        sum1 += dp[N];// v2 -> N
 
         System.out.println(Math.min(sum1, sum2) == Integer.MAX_VALUE ? -1 : Math.min(sum1, sum2));
     }
@@ -98,4 +96,3 @@ public class Main {
         }
     }
 }
-
