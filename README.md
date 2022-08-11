@@ -13,16 +13,93 @@
 | hackerrank | [바로가기](https://www.hackerrank.com/) |
 | 프로그래머스 | [바로가기](https://www.hackerrank.com/) |
 
-### 📜알고리즘 정리 DOCS
+### 📜알고리즘 정리
+#### 동적 계획법 알고리즘 (Dynamic Programming Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+| 1 | 플로이드-워셜 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/floyd_warshall/README.md) |
 
-| 분류 | 알고리즘 | 정리 링크 |
-| :---: | :---: | :--------:|
-| 탐색 | 이진 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/binary_search/README.md) |
-| 그래프 | 최소 신장 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/minimal_spanning_tree/README.md) |
-| 최단경로 | 다익스트라 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/dijkstra/README.md) |
-|| 플로이드-워셜 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/floyd_warshall/README.md) |
-| 우선순위 | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_heap/README.md) |
-| | 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/priority_queue/README.md) |
+#### 브루트포스 알고리즘 (Brute Force Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 분할정복 알고리즘 (Divide and Conquer Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 백트래킹 알고리즘 (Backtracking Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 정렬 알고리즘 (Sorting Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 재귀 알고리즘 (Recursive Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 탐색 알고리즘 (Searching Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+| 1 | 이진 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/searching/binary_search/README.md) |
+
+#### 탐욕 알고리즘 (Greedy Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+| 1 | 다익스트라 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
+
+#### 해싱 알고리즘 (Hashing Algorithm)
+| 순서 | 알고리즘 | 정리 링크 |
+| :---: | :------- | :----:|
+
+
+### 📝자료구조 정리
+#### 배열 (Array)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 연결 리스트 (Linked List)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 스택 (Stack)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 큐 (Queue)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+| 1 | 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/queue/priority_queue/README.md) |
+
+#### 힙 (Heap)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+| 1 | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/heap/priority_heap/README.md) |
+
+#### 이진 트리 (Binary Tree)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 이진 검색 트리 (Binary Search Tree)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 해싱 (Hashing)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 그래프 (Graph)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 행렬 (Matrix)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
+
+#### 기타 (Misc)
+| 순서 | 자료구조 | 정리 링크 |
+| :---: | :------- | :----:|
 
 ### 🚩8월
 
