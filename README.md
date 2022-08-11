@@ -17,7 +17,7 @@
 #### 동적 계획법 알고리즘 (Dynamic Programming Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
 | :---: | :------- | :----:|
-| 1 | 플로이드-워셜 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/floyd_warshall/README.md) |
+| 1 | 플로이드-워셜 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/dynamic/floyd_warshall/README.md) |
 
 #### 브루트포스 알고리즘 (Brute Force Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
