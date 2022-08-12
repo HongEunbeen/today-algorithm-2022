@@ -78,6 +78,8 @@
 | 08/08 | [최단경로](https://www.acmicpc.net/problem/1753)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/08/최단경로)|
 | | [특정한 최단경로](https://www.acmicpc.net/problem/1504)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/08/특정한_최단경로)|
 | 08/11 | [트리의 지름](https://www.acmicpc.net/problem/1167)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/11)|
+| 08/12 | [문자열 폭발](https://www.acmicpc.net/problem/9935)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/12)|
+
 
 ### 💙7월
 
