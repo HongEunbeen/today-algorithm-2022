@@ -1,3 +1,5 @@
+package june.nine;
+
 import java.io.*;
 import java.util.*;
 
@@ -13,11 +15,12 @@ public class Main {
 
         for(int i=0; i<str.length; i++){
             stack.push(str[i]);
-            
+
             if(dump.indexOf(str[i]) == dump.length()-1){
                 builder = new StringBuilder();
 
                 for(int j=0; j<dump.length(); j++){
+                    if(stack.isEmpty()) break;
                     builder.insert(0, stack.pop());
                 }
 
@@ -34,7 +37,7 @@ public class Main {
             builder.append(stack.pop());
         }
 
-        if(builder.isEmpty()) System.out.println("FRULA");
+        if(builder.length() == 0) System.out.println("FRULA");
         else System.out.println(builder.reverse());
 
     }
