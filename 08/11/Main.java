@@ -18,8 +18,8 @@ class Edge implements Comparable<Edge> {
 
 public class Main {
     static List<Edge>[] list;
-	static boolean[] checked;
-	static int[] distance;
+    static boolean[] checked;
+    static int[] distance;
     static int V, start, end, weight;
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -47,15 +47,25 @@ public class Main {
         }
 
         dijkstra(1);
+        int max = 0, maxI = 0;
+        for(int i=1; i<=V; i++){
+            if(distance[i] > max){
+                max = distance[i];
+                maxI = i;
+            }
+        }
+
+        dijkstra(maxI);
         Arrays.sort(distance);
         System.out.println(distance[V-1]);
 
     }
     public static void dijkstra(int index) {
-		PriorityQueue<Edge> queue = new PriorityQueue<>();
-		Arrays.fill(distance, Integer.MAX_VALUE);
-		
-		distance[index] = 0;
+        PriorityQueue<Edge> queue = new PriorityQueue<>();
+        Arrays.fill(distance, Integer.MAX_VALUE);
+        Arrays.fill(checked, false);
+
+        distance[index] = 0;
         queue.add(new Edge(index, 0));
 
         while(!queue.isEmpty()){
@@ -71,7 +81,7 @@ public class Main {
             while(iter.hasNext()){
                 Edge next = (Edge) iter.next();
 
-                int nextI = next.end; 
+                int nextI = next.end;
                 int nextW = currentW + next.weight;
 
                 if(nextW < distance[nextI]) {
