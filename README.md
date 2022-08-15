@@ -2,7 +2,7 @@
 
 > **Today Algorithm 2022**은 하루에 한 개 이상의 알고리즘 풀이를 목표로 합니다.
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vvvv980)
+
 
 
 
@@ -11,11 +11,11 @@
 
 ### 사용하는 알고리즘 사이트
 
-| 분류 | 사이트 |
-| :---: | :--------:|
-| 백준 | [바로가기](https://www.acmicpc.net/) |
-| hackerrank | [바로가기](https://www.hackerrank.com/) |
-| 프로그래머스 | [바로가기](https://www.hackerrank.com/) |
+| 분류 | 사이트 | 레벨 |
+| :---: | :--------:|:-----:|
+| 백준 | [바로가기](https://www.acmicpc.net/) | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vvvv980) | 
+| hackerrank | [바로가기](https://www.hackerrank.com/) | |
+| 프로그래머스 | [바로가기](https://www.hackerrank.com/) | |
 
 ### 📜알고리즘 정리
 #### 동적 계획법 알고리즘 (Dynamic Programming Algorithm)
@@ -85,6 +85,9 @@
 | 08/12 | `9935`  [문자열 폭발](https://www.acmicpc.net/problem/9935)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/12)|
 | 08/14 | `2096` [내려가기](https://www.acmicpc.net/problem/2096)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/14/내려가기)|
 || `2448` [별찍기 11](https://www.acmicpc.net/problem/2448)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/14/별찍기_11)|
+| 08/15 | `2263` [트리의 순회](https://www.acmicpc.net/problem/2263)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/15/트리의_순회)|
+|| `1865` [웜홀](https://www.acmicpc.net/problem/1865)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/15/웜홀)|
+
 
 ### 💙7월
 
