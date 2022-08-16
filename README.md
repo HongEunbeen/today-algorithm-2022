@@ -85,8 +85,8 @@
 | 08/12 | `9935`  [문자열 폭발](https://www.acmicpc.net/problem/9935)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/12)|
 | 08/14 | `2096` [내려가기](https://www.acmicpc.net/problem/2096)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/14)|
 | 08/15 | `2263` [트리의 순회](https://www.acmicpc.net/problem/2263)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/15)|
-| 08/16 | `1865` [웜홀](https://www.acmicpc.net/problem/1865)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16)|
-
+| 08/16 | `1865` [웜홀](https://www.acmicpc.net/problem/1865)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16/웜홀)|
+| | `1916` [최소비용 구하기](https://www.acmicpc.net/problem/1916)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16/최소비용_구하기)|
 
 ### 💙7월
 
