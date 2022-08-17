@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Edge {
+class Edge implements Comparable<Edge>{
     int end;
     int weight;
 
@@ -12,7 +12,7 @@ class Edge {
 
     @Override
     public int compareTo(Edge e) {
-      return weight- e.weight;
+        return weight- e.weight;
     }
 }
 
@@ -21,12 +21,12 @@ public class Main {
     public static ArrayList<Edge> list[];
     public static int[] distance;
     public static boolean[] checked;
-    public static void main(String[] args) throws IOException{  
+    public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
 
-        int N = Integer.parseInt(br.readLine());
-        int M = Integer.parseInt(br.readLine());
+        N = Integer.parseInt(br.readLine());
+        M = Integer.parseInt(br.readLine());
 
         distance = new int[N+1];
         checked = new boolean[N+1];
@@ -38,14 +38,14 @@ public class Main {
 
         for(int i=1; i<=M; i++){
             st = new StringTokenizer(br.readLine(), " ");
-            
+
             int start = Integer.parseInt(st.nextToken());
             int end = Integer.parseInt(st.nextToken());
             int weight = Integer.parseInt(st.nextToken());
 
             list[start].add(new Edge(end, weight));
         }
-        
+
         st = new StringTokenizer(br.readLine(), " ");
         int startV = Integer.parseInt(st.nextToken());
         int endV = Integer.parseInt(st.nextToken());
@@ -58,10 +58,10 @@ public class Main {
         PriorityQueue<Edge> queue = new PriorityQueue<Edge>();
         Arrays.fill(distance, 100000);
         Arrays.fill(checked, false);
-        
+
         distance[start] = 0;
         queue.add(new Edge(start, 0));
-        
+
         while(!queue.isEmpty()){
             Edge edge = queue.poll();
 
@@ -87,4 +87,3 @@ public class Main {
 
     }
 }
-
