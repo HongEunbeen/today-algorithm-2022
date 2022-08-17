@@ -17,11 +17,32 @@
 | hackerrank | [바로가기](https://www.hackerrank.com/) | |
 | 프로그래머스 | [바로가기](https://www.hackerrank.com/) | |
 
+### 📝자료구조 정리
+
+| 분류 | 자료구조 | 정리 링크 |
+|:--- |:------- | :----:|
+| `Array` | 배열 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/array/README.md) |
+| `Linked List` | 연결 리스트 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/linked_list/linked_list/README.md) |
+|| 이중 연결 리스트 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/linked_list/doubly_linked_list/README.md) |
+|| 순환 연결 리스트 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/linked_list/curcularly_linked_list/README.md) |
+| `Stack`  | 스택 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/stack/README.md) |
+| `Queue`  | 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/queue/queue/README.md) |
+|| 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/queue/priority_queue/README.md) |
+| `Heap`  | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/heap/priority_heap/README.md) |
+| `Tree` | 일반 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/tree/README.md) |
+|| 이진 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/binary_tree/README.md) |
+|| 이진 인덱스 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/binary_index_tree/README.md) ||
+|| 이진 검색 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/binary_search_tree/README.md) |
+| `Graph` | 방향 그래프 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/graph/directed_graph/README.md) |
+|| 무방향 그래프 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/graph/undirected_graph/README.md) |
+| `Hashing` | 해싱 | | |
+
 ### 📜알고리즘 정리
 #### 동적 계획법 알고리즘 (Dynamic Programming Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
 | :---: | :------- | :----:|
 | 1 | 플로이드-워셜 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/dynamic/floyd_warshall/README.md) |
+| 2 | 벨만 포드 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/dynamic/floyd_warshall/README.md) |
 
 #### 브루트포스 알고리즘 (Brute Force Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
@@ -38,40 +59,31 @@
 #### 정렬 알고리즘 (Sorting Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
 | :---: | :------- | :----:|
-
-#### 재귀 알고리즘 (Recursive Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
+| 1 | 버블 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/buuble/README.md) |
+| 2 | 선택 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/selection/README.md) |
+| 3 | 삽입 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/insertion/README.md) |
+| 4 | 퀵 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/quick/README.md) |
+| 5 | 힙 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/heap/README.md) |
+| 6 | 병합 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/merge/README.md) |
+| 7 | 기수 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/radix/README.md) |
 
 #### 탐색 알고리즘 (Searching Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
 | :---: | :------- | :----:|
-| 1 | 이진 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/searching/binary_search/README.md) |
+| 1 | 순차 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/searching/linear_search/README.md) |
+| 2 | 이진 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/searching/binary_search/README.md) |
 
 #### 탐욕 알고리즘 (Greedy Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
 | :---: | :------- | :----:|
 | 1 | 다익스트라 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
+| 2 | 크루스 칼 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
+| 3 | 프림 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
 
 #### 해싱 알고리즘 (Hashing Algorithm)
 | 순서 | 알고리즘 | 정리 링크 |
 | :---: | :------- | :----:|
 
-
-### 📝자료구조 정리
-
-| 분류 | 자료구조 | 정리 링크 |
-|:--- |:------- | :----:|
-| `Array` | | |
-| `Linked List` | | |
-| `Queue`  | 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/queue/priority_queue/README.md) |
-| `Heap`  | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/heap/priority_heap/README.md) |
-| `Binary Tree` | | |
-| `Binary Search Tree` | | |
-| `Hashing` | 해싱 | | |
-| `Graph` | | |
-| `Matrix`  | | |
-| `Misc`  | | |
 
 ### 🚩8월
 
@@ -87,6 +99,7 @@
 | 08/15 | `2263` [트리의 순회](https://www.acmicpc.net/problem/2263)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/15)|
 | 08/16 | `1865` [웜홀](https://www.acmicpc.net/problem/1865)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16/웜홀)|
 | | `1916` [최소비용 구하기](https://www.acmicpc.net/problem/1916)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16/최소비용_구하기)|
+| 08/17 | `1918` [후위 표기식](https://www.acmicpc.net/problem/1918)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/17)|
 
 ### 💙7월
 
