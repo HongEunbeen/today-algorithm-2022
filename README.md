@@ -100,6 +100,8 @@
 | 08/16 | `1865` [웜홀](https://www.acmicpc.net/problem/1865)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16/웜홀)|
 | | `1916` [최소비용 구하기](https://www.acmicpc.net/problem/1916)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/16/최소비용_구하기)|
 | 08/17 | `1918` [후위 표기식](https://www.acmicpc.net/problem/1918)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/17)|
+| 08/18 | `15686` [치킨 배달](https://www.acmicpc.net/problem/15686)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/18/치킨_배달)|
+| | `17144` [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/18/미세먼지_안녕)|
 
 ### 💙7월
 
