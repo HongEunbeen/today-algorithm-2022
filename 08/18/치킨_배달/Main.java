@@ -4,92 +4,72 @@ import java.util.*;
 class Miro {
     int x;
     int y;
-    int dist;
 
-    public Miro(int x, int y, int dist) {
+    public Miro(int x, int y) {
         this.x = x;
         this.y = y;
-        this.dist = dist;
     }
 }
 
-public class Main { 
-    static int dx[] = {-1, 0, 1, 0};
-    static int dy[] = {0, 1, 0, -1};
-    static int N, M, board[][], result = Integer.MAX_VALUE;
-    static List<Miro> houses, chickens;
-    public static void main(String[] args) throws IOException{  
+public class Main {
+    static int N, M, result = Integer.MAX_VALUE;
+    static List<Miro> houses = new ArrayList<>();
+    static List<Miro> chickens = new ArrayList<>();
+    static int[] alive;
+    static boolean[] checked;
+    public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
         N = Integer.parseInt(st.nextToken()); // N*N 마을
         M = Integer.parseInt(st.nextToken()); // 남길 치킨집
 
-        chickens = new ArrayList<>();
-        houses = new ArrayList<>();
-        board = new int[N][N];
+        alive = new int[M];
 
         for(int i=0; i<N; i++){
             st = new StringTokenizer(br.readLine(), " ");
             for(int j=0; j<N; j++){
-                board[i][j] = Integer.parseInt(st.nextToken());
-                checkBoard(i, j);
+                int type = Integer.parseInt(st.nextToken());
+                if(type == 1) {
+                    houses.add(new Miro(i, j));
+                }
+                else if(type == 2) {
+                    chickens.add(new Miro(i, j));
+                }
             }
         }
+        checked = new boolean[chickens.size()];
 
-        calcChicken(0);
+        calcChicken(0, 0);
         System.out.println(result);
     }
-    public static void checkBoard(int i, int j){
-        if(board[i][j] == 1) {
-            houses.add(new Miro(i, j, 0));
-        }
-        else if(board[i][j] == 2) {
-            chickens.add(new Miro(i, j, 0));
-            board[i][j] = 0;
-        }
-    }
-    public static void calcChicken(int count){
+    public static void calcChicken(int count, int idx){
         if(count == M){
-            result = Math.min(getAllDist(), result);
+            result = Math.min(getMinDist(), result);
             return;
         }
-        
-        for(Miro chicken : chickens){
-            board[chicken.x][chicken.y] = 2;
-            calcChicken(count + 1);
-            board[chicken.x][chicken.y] = 0;
-        }
-    }
-    public static int getAllDist(){
-        int sum = 0;
-        for(Miro house : houses){
-            sum += getHouseDist(house);
-        }
-        return sum;
-    }
-    public static int getHouseDist(Miro house){
-        Queue<Miro> queue = new LinkedList<Miro>();
-        boolean checked[][] =new boolean[N][N];
 
-        queue.add(house);
-        checked[house.x][house.y] = true;
-        
-        while(!queue.isEmpty()){
-            house = queue.poll();
-
-            for(int i=0; i<4; i++){
-                int nextX = house.x + dx[i];
-                int nextY = house.y + dy[i];
-                
-                if(nextX < 0 || nextY < 0 || nextX >= N || nextY >= N || checked[nextX][nextY]) continue;
-                if(board[nextX][nextY] == 2){
-                    return house.dist+1;
-                }
-                queue.add(new Miro(nextX, nextY, house.dist+1));
-                checked[nextX][nextY] = true;
+        for(int i=idx; i<chickens.size(); i++){
+            if(!checked[i]){
+                checked[i] = true;
+                alive[count] = i;
+                calcChicken(count+1, i+1);
+                checked[i] = false;
             }
         }
-        return 0;
+    }
+    public static int getMinDist(){
+        int sum = 0;
+        for(Miro house : houses){
+            int min = Integer.MAX_VALUE;
+            for(int item : alive){
+                Miro chicken = chickens.get(item);
+                int dist = Math.abs(house.x-chicken.x) + Math.abs(house.y-chicken.y);
+
+                min = Math.min(min, dist);
+            }
+            sum += min;
+        }
+        return sum;
     }
 }
