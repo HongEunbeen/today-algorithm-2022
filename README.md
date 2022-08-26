@@ -105,6 +105,7 @@
 | 08/22 | `1041` [주사위](https://www.acmicpc.net/problem/1041)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/22)|
 | 08/23 | `1647` [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/23)|
 | 08/25 | `1038` [감소하는 수](https://www.acmicpc.net/problem/1038)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/25)|
+| 08/26 | `1461` [도서관](https://www.acmicpc.net/problem/1461)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/08/26)|
 
 ### 💙7월
 
