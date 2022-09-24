@@ -4,8 +4,6 @@
 
 
 
-
-
 ### 2021년 알고리즘 아카이브
 [📂바로가기](https://github.com/HongEunbeen/Today_Algorithm)
 
@@ -16,73 +14,6 @@
 | 백준 | [바로가기](https://www.acmicpc.net/) | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vvvv980) | 
 | hackerrank | [바로가기](https://www.hackerrank.com/) | |
 | 프로그래머스 | [바로가기](https://www.hackerrank.com/) | |
-
-### 📝자료구조 정리
-
-| 분류 | 자료구조 | 정리 링크 |
-|:--- |:------- | :----:|
-| `Array` | 배열 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/array/README.md) |
-| `Linked List` | 연결 리스트 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/linked_list/linked_list/README.md) |
-|| 이중 연결 리스트 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/linked_list/doubly_linked_list/README.md) |
-|| 순환 연결 리스트 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/linked_list/curcularly_linked_list/README.md) |
-| `Stack`  | 스택 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/stack/README.md) |
-| `Queue`  | 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/queue/queue/README.md) |
-|| 우선순위 큐 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/queue/priority_queue/README.md) |
-| `Heap`  | 우선순위 힙 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/heap/priority_heap/README.md) |
-| `Tree` | 일반 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/tree/README.md) |
-|| 이진 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/binary_tree/README.md) |
-|| 이진 인덱스 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/binary_index_tree/README.md) ||
-|| 이진 검색 트리 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/tree/binary_search_tree/README.md) |
-| `Graph` | 방향 그래프 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/graph/directed_graph/README.md) |
-|| 무방향 그래프 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/data_structures/graph/undirected_graph/README.md) |
-| `Hashing` | 해싱 | | |
-
-### 📜알고리즘 정리
-#### 동적 계획법 알고리즘 (Dynamic Programming Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-| 1 | 플로이드-워셜 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/dynamic/floyd_warshall/README.md) |
-| 2 | 벨만 포드 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/dynamic/floyd_warshall/README.md) |
-
-#### 브루트포스 알고리즘 (Brute Force Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-
-#### 분할정복 알고리즘 (Divide and Conquer Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-
-#### 백트래킹 알고리즘 (Backtracking Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-
-#### 정렬 알고리즘 (Sorting Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-| 1 | 버블 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/buuble/README.md) |
-| 2 | 선택 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/selection/README.md) |
-| 3 | 삽입 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/insertion/README.md) |
-| 4 | 퀵 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/quick/README.md) |
-| 5 | 힙 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/heap/README.md) |
-| 6 | 병합 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/merge/README.md) |
-| 7 | 기수 정렬 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/sorting/radix/README.md) |
-
-#### 탐색 알고리즘 (Searching Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-| 1 | 순차 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/searching/linear_search/README.md) |
-| 2 | 이진 탐색 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/searching/binary_search/README.md) |
-
-#### 탐욕 알고리즘 (Greedy Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
-| 1 | 다익스트라 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
-| 2 | 크루스 칼 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
-| 3 | 프림 | [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/docs/algorithms/greedy/dijkstra/README.md) |
-
-#### 해싱 알고리즘 (Hashing Algorithm)
-| 순서 | 알고리즘 | 정리 링크 |
-| :---: | :------- | :----:|
 
 ### 🚩9월
 
