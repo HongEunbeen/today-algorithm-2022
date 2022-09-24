@@ -19,7 +19,6 @@
 
 | 날짜   | 문제               | 난이도 | 풀이 링크 |
 | :---: |  :--------  | :----: |  --------:|
-| 09/23 | `1202` [보석 도둑](https://www.acmicpc.net/problem/1202)  |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/09/23)|
 
 ### 💙8월
 
