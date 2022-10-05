@@ -20,6 +20,7 @@
 | 날짜   | 문제               | 난이도 | 풀이 링크 |
 | :---: |  :--------  | :----: |  --------:|
 | 10/04 | `1339` [단어 수학](https://www.acmicpc.net/problem/1339) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/04)|
+| 10/05 | `1253` [좋다](https://www.acmicpc.net/problem/1253) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/05)|
 
 
 ### 💙8월
