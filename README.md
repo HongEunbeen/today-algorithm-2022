@@ -23,6 +23,7 @@
 | 10/05 | `1253` [좋다](https://www.acmicpc.net/problem/1253) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/05)|
 | 10/09 | `1092` [배](https://www.acmicpc.net/problem/1092) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/09)|
 | 10/11 | `1132` [합](https://www.acmicpc.net/problem/1132) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/11)|
+| 10/11 | `1477` [휴게소 세우기](https://www.acmicpc.net/problem/1477) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/15)|
 
 ### 💙8월
 
