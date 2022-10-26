@@ -26,6 +26,7 @@
 | 10/15 | `1477` [휴게소 세우기](https://www.acmicpc.net/problem/1477) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/15)|
 | 10/16 | `1188` [음식 평론가](https://www.acmicpc.net/problem/1188) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/16)|
 | 10/25 | `1460` [진욱이의 농장](https://www.acmicpc.net/problem/1460) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/25)|
+| 10/26 | `2881` [산책길](https://www.acmicpc.net/problem/2881) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm_2022/blob/main/10/26)|
 
 ### 💙8월
 
