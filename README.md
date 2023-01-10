@@ -3,7 +3,6 @@
 > **Today Algorithm**은 하루에 한 개 이상의 알고리즘 풀이를 목표로 합니다.
 
 
-
 ### 2021년 알고리즘 아카이브
 [📂바로가기](https://github.com/HongEunbeen/Today_Algorithm_2021)
 
@@ -14,11 +13,6 @@
 | 백준 | [바로가기](https://www.acmicpc.net/) | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vvvv980) | 
 | hackerrank | [바로가기](https://www.hackerrank.com/) | |
 | 프로그래머스 | [바로가기](https://www.hackerrank.com/) | |
-
-### 🚩11월
-
-| 날짜   | 문제               | 난이도 | 풀이 링크 |
-| :---: |  :--------  | :----: |  --------:|
 
 ### 💙10월
 
